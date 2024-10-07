@@ -1,5 +1,3 @@
-Certainly! Here's a long list of question-answer pairs in the style of synthetic data for fine-tuning a model, specifically focused on Rig and its capabilities:
-
 1. Q: What is Rig?
    A: Rig is an open-source Rust library designed to simplify the development of applications powered by Large Language Models (LLMs). It provides a unified API for working with different LLM providers, supports advanced AI workflows, and offers flexible abstractions for building complex AI systems.
 
