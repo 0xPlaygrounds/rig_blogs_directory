@@ -28,5 +28,11 @@
       "description": "Step-by-step tutorial on creating an AI-powered flight search agent using Rig and Rust.",
       "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8wk325n8am5ykkns3l7y.png",
       "link": "https://dev.to/0thtachi/build-a-flight-search-ai-agent-with-rust-using-rig-a-hands-on-practical-guide-54dm"
+    },
+    {
+      "title": "Build an AI Discord Bot in Rust with Rig: A Step-by-Step Guide",
+      "description": "Step-by-step tutorial on creating an AI-powered discord bot in Rust and Rig.",
+      "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhqz0e0vof2f4khpx3hyu.png",
+      "link": "https://dev.to/0thtachi/build-an-ai-discord-bot-in-rust-with-rig-a-step-by-step-guide-5d0d"
     }
   ]
