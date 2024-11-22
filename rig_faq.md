@@ -38,9 +38,6 @@
    let command = cohere_client.model("command-r").build();
    ```
 
-10. Q: What is the difference between `Agent` and `Model` in Rig?
-    A: In Rig, a `Model` represents a raw LLM model, while an `Agent` combines a model with additional context (preamble) and potentially tools. Agents provide a higher-level abstraction for building AI assistants.
-
 11. Q: How does Rig handle errors in LLM interactions?
     A: Rig provides custom error types like `CompletionError` and `EmbeddingError` for handling errors in LLM interactions. These allow for more specific error handling and propagation in your application.
     
