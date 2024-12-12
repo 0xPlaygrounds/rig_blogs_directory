@@ -46,5 +46,11 @@
       "description": "Step-by-step tutorial on building a vector search with Rig and LanceDB.",
       "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1sip1cxbwmiepbl6w1j4.jpg",
       "link": "https://dev.to/0thtachi/build-a-fast-and-lightweight-rust-vector-search-app-with-rig-lancedb-57h2"
+    },
+    {
+      "title": "Deploy a blazing-fast & Lightweight LLM app with Rust-Rig-LanceDB",
+      "description": "Step-by-step walkthrough on deploying a LLM app using Rig & LanceDB on AWS Lambda..",
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnmojtm9yk9ns4h3qxh3.jpg",
+      "link": "https://dev.to/garance_buricatu_a6864136/deploy-a-blazing-fast-lightweight-llm-app-with-rust-rig-lancedb-139l"
     }
   ]
