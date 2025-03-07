@@ -1,56 +1,92 @@
 [
-    {
-      "title": "Rig: A Rust Library for Building LLM-Powered Applications",
-      "description": "Introduction to Rig and its core features for developing LLM applications in Rust.",
-      "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceupklpmc1c9bctg8o68.png",
-      "link": "https://dev.to/0thtachi/rig-a-rust-library-for-building-llm-powered-applications-3g75"
-    },
-    {
-      "title": "Why Rig? 5 Compelling Reasons to Use Rig for Your Next LLM Project",
-      "description": "Explore the key advantages of using Rig for developing LLM-powered applications in Rust.",
-      "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqwhgsyrxhs5byuvgjfgn.png",
-      "link": "https://dev.to/0thtachi/why-rig-5-compelling-reasons-to-use-rig-for-your-next-llm-project-23hl"
-    },
-    {
-      "title": "Build a RAG System with Rig in Under 100 Lines of Code",
-      "description": "Learn how to create a Retrieval-Augmented Generation system using Rig with minimal code.",
-      "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8juldl12kl3emdhngr3f.png",
-      "link": "https://dev.to/0thtachi/build-a-rag-system-with-rig-in-under-100-lines-of-code-4422"
-    },
-    {
-      "title": "Build AI Text Classification in Rust with Rig",
-      "description": "A guide to implementing AI-powered text classification using Rig and Rust.",
-      "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ulqbx78o90cmm494gap.png",
-      "link": "https://dev.to/0thtachi/build-ai-text-classification-in-rust-with-rig-ajl"
-    },
-    {
-      "title": "Build a Flight Search AI Agent with Rust Using Rig: A Hands-On Practical Guide",
-      "description": "Step-by-step tutorial on creating an AI-powered flight search agent using Rig and Rust.",
-      "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8wk325n8am5ykkns3l7y.png",
-      "link": "https://dev.to/0thtachi/build-a-flight-search-ai-agent-with-rust-using-rig-a-hands-on-practical-guide-54dm"
-    },
-    {
-      "title": "Build an AI Discord Bot in Rust with Rig: A Step-by-Step Guide",
-      "description": "Step-by-step tutorial on creating an AI-powered discord bot in Rust and Rig.",
-      "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhqz0e0vof2f4khpx3hyu.png",
-      "link": "https://dev.to/0thtachi/build-an-ai-discord-bot-in-rust-with-rig-a-step-by-step-guide-5d0d"
-    },
-    {
-      "title": "How to Deploy Your Rig App on AWS Lambda: A Step-by-Step Guide",
-      "description": "Step-by-step tutorial on deploying Rig applications on AWS Lambda.",
-      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ogor0oa0ejzgqmrf7p8.jpg",
-      "link": "https://dev.to/garance_buricatu_a6864136/how-to-deploy-your-rig-app-on-aws-lambda-a-step-by-step-guide-2ge5"
-    },
-    {
-      "title": "Build a Fast and Lightweight Rust Vector Search App with Rig & LanceDB",
-      "description": "Step-by-step tutorial on building a vector search with Rig and LanceDB.",
-      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1sip1cxbwmiepbl6w1j4.jpg",
-      "link": "https://dev.to/0thtachi/build-a-fast-and-lightweight-rust-vector-search-app-with-rig-lancedb-57h2"
-    },
-    {
-      "title": "Deploy a blazing-fast & Lightweight LLM app with Rust-Rig-LanceDB",
-      "description": "Step-by-step walkthrough on deploying a LLM app using Rig & LanceDB on AWS Lambda..",
-      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnmojtm9yk9ns4h3qxh3.jpg",
-      "link": "https://dev.to/garance_buricatu_a6864136/deploy-a-blazing-fast-lightweight-llm-app-with-rust-rig-lancedb-139l"
-    }
-  ]
+  {
+    "title": "Rig: A Rust Library for Building LLM-Powered Applications",
+    "description": "Introduction to Rig and its core features for developing LLM applications in Rust.",
+    "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceupklpmc1c9bctg8o68.png",
+    "link": "https://dev.to/0thtachi/rig-a-rust-library-for-building-llm-powered-applications-3g75"
+  },
+  {
+    "title": "Why Rig? 5 Compelling Reasons to Use Rig for Your Next LLM Project",
+    "description": "Explore the key advantages of using Rig for developing LLM-powered applications in Rust.",
+    "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqwhgsyrxhs5byuvgjfgn.png",
+    "link": "https://dev.to/0thtachi/why-rig-5-compelling-reasons-to-use-rig-for-your-next-llm-project-23hl"
+  },
+  {
+    "title": "Build a RAG System with Rig in Under 100 Lines of Code",
+    "description": "Learn how to create a Retrieval-Augmented Generation system using Rig with minimal code.",
+    "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8juldl12kl3emdhngr3f.png",
+    "link": "https://dev.to/0thtachi/build-a-rag-system-with-rig-in-under-100-lines-of-code-4422"
+  },
+  {
+    "title": "Build AI Text Classification in Rust with Rig",
+    "description": "A guide to implementing AI-powered text classification using Rig and Rust.",
+    "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ulqbx78o90cmm494gap.png",
+    "link": "https://dev.to/0thtachi/build-ai-text-classification-in-rust-with-rig-ajl"
+  },
+  {
+    "title": "Build a Flight Search AI Agent with Rust Using Rig: A Hands-On Practical Guide",
+    "description": "Step-by-step tutorial on creating an AI-powered flight search agent using Rig and Rust.",
+    "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8wk325n8am5ykkns3l7y.png",
+    "link": "https://dev.to/0thtachi/build-a-flight-search-ai-agent-with-rust-using-rig-a-hands-on-practical-guide-54dm"
+  },
+  {
+    "title": "Build an AI Discord Bot in Rust with Rig: A Step-by-Step Guide",
+    "description": "Step-by-step tutorial on creating an AI-powered discord bot in Rust and Rig.",
+    "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhqz0e0vof2f4khpx3hyu.png",
+    "link": "https://dev.to/0thtachi/build-an-ai-discord-bot-in-rust-with-rig-a-step-by-step-guide-5d0d"
+  },
+  {
+    "title": "How to Deploy Your Rig App on AWS Lambda: A Step-by-Step Guide",
+    "description": "Step-by-step tutorial on deploying Rig applications on AWS Lambda.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ogor0oa0ejzgqmrf7p8.jpg",
+    "link": "https://dev.to/garance_buricatu_a6864136/how-to-deploy-your-rig-app-on-aws-lambda-a-step-by-step-guide-2ge5"
+  },
+  {
+    "title": "Build a Fast and Lightweight Rust Vector Search App with Rig & LanceDB",
+    "description": "Step-by-step tutorial on building a vector search with Rig and LanceDB.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1sip1cxbwmiepbl6w1j4.jpg",
+    "link": "https://dev.to/0thtachi/build-a-fast-and-lightweight-rust-vector-search-app-with-rig-lancedb-57h2"
+  },
+  {
+    "title": "Deploy a blazing-fast & Lightweight LLM app with Rust-Rig-LanceDB",
+    "description": "Step-by-step walkthrough on deploying a LLM app using Rig & LanceDB on AWS Lambda..",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnmojtm9yk9ns4h3qxh3.jpg",
+    "link": "https://dev.to/garance_buricatu_a6864136/deploy-a-blazing-fast-lightweight-llm-app-with-rust-rig-lancedb-139l"
+  },
+  {
+    "title": "Rig: A Rust Library for Building LLM-Powered Applications",
+    "description": "Introduction to Rig and its core features for developing LLM applications in Rust.",
+    "image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fceupklpmc1c9bctg8o68.png",
+    "link": "https://dev.to/0thtachi/rig-a-rust-library-for-building-llm-powered-applications-3g75"
+  },
+  {
+    "title": "Semantic Routing with Qdrant, Rig & Rust",
+    "description": "Learn about semantic routing and how to use it with Qdrant via Rig.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fppub6u5v19t5p0wxrgvy.png",
+    "link": "https://dev.to/joshmo_dev/semantic-routing-with-qdrant-rig-rust-mj4"
+  },
+  {
+    "title": "Building RAG using Rig, SurrealDB & DeepSeek on Cloudflare Workers",
+    "description": "Explore how you can write RAG pipelines with Rig & SurrealDB, hosted on Cloudflare Workers.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfddm4omz96aopqijjd3.png",
+    "link": "https://dev.to/joshmo_dev/building-rag-using-rig-surrealdb-deepseek-on-cloudflare-workers-484"
+  },
+  {
+    "title": "Building CSV RAG with Rig and Rust 🔥🔥🔥",
+    "description": "Learn about how you can talk to your CSV files using Rig.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flnyc13p82ericu7w7alh.png",
+    "link": "https://dev.to/joshmo_dev/building-csv-rag-with-rig-and-rust-2bpi"
+  },
+  {
+    "title": "Implementing Design Patterns for Agentic AI with Rig & Rust",
+    "description": "Learn about implementing effective design patterns for agentic AI with Rig.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgtie7ab2h4xsleulh036.png",
+    "link": "https://dev.to/joshmo_dev/implementing-design-patterns-for-agentic-ai-with-rig-rust-1o71"
+  },
+  {
+    "title": "Local Embeddings with Fastembed and Rig",
+    "description": "Learn about preparing local embeddings for AI with Fastembed and Rig.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms5wfwc467rscp6ws2k3.png",
+    "link": "https://dev.to/joshmo_dev/local-embeddings-with-fastembed-rig-rust-3581"
+  }
+]
