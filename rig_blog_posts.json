@@ -88,5 +88,17 @@
     "description": "Learn about preparing local embeddings for AI with Fastembed and Rig.",
     "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fms5wfwc467rscp6ws2k3.png",
     "link": "https://dev.to/joshmo_dev/local-embeddings-with-fastembed-rig-rust-3581"
+  },
+  {
+    "title": "Creating AI Memories using Rig & MongoDB",
+    "description": "Learn about short and long term memory in AI and how you can utilise both in your Rust applications, using Rig and MongoDB.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqiupuz6ehhgwuf91hs6.png",
+    "link": "https://dev.to/joshmo_dev/creating-ai-memories-using-rig-mongodb-2pg7"
+  },
+  {
+    "title": "Automating onchain actions with AI using rig-onchain-kit",
+    "description": "Learn how you can automate onchain actions with AI using rig-onchain-kit, Rig's companion crate for onchain execution.",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fil5kwqq2wbwhddvedbuk.png",
+    "link": "https://dev.to/joshmo_dev/automating-onchain-actions-with-ai-using-rig-onchain-kit-3ph4"
   }
 ]
