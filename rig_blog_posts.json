@@ -100,5 +100,12 @@
     "description": "Learn how you can automate onchain actions with AI using rig-onchain-kit, Rig's companion crate for onchain execution.",
     "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fil5kwqq2wbwhddvedbuk.png",
     "link": "https://dev.to/joshmo_dev/automating-onchain-actions-with-ai-using-rig-onchain-kit-3ph4"
+  },
+  {
+    "title": "Rewriting Claude Code in Rust with Rig",
+    "description": "Learn how to build a minimal version of Claude Code with Rig",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foez1brpa7q06icyd8k66.png",
+    "link": "https://dev.to/joshmo_dev/rewriting-claude-code-in-rust-jbm"
+  
   }
 ]
